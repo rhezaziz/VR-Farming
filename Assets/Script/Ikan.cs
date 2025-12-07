@@ -11,6 +11,8 @@ public class Ikan : MonoBehaviour
     [SerializeField] private AIWaypoint currWaypoint;
     [SerializeField] private AIWaypoint prevWaypoint;
     private AIWaypointsGroup waypointsGroup;
+    public AIWaypointsGroup startPointGroup;
+    public AIWaypointsGroup endPointGroup; 
     private Rigidbody rb;
 
     public float speed;
@@ -23,8 +25,8 @@ public class Ikan : MonoBehaviour
 
         rb = GetComponent<Rigidbody>();
 
-        var closestWayPointGroup = FindClosestWaypointsGroup();
-        waypointsGroup = closestWayPointGroup.Key;
+        //var closestWayPointGroup = FindClosestWaypointsGroup();
+        waypointsGroup = startPointGroup;
 
     }
     void Update()
@@ -51,15 +53,16 @@ public class Ikan : MonoBehaviour
 
     public void Drop()
     {
+        Debug.Log("test");
         onTake = false;
-        var closestWayPointGroup = FindClosestWaypointsGroup();
-        waypointsGroup = closestWayPointGroup.Key;
+        //var closestWayPointGroup = FindClosestWaypointsGroup();
+        waypointsGroup = endPointGroup;
         GetComponent<BoxCollider>().enabled = false;
     }
 
     public Pair<AIWaypointsGroup, AIWaypoint> FindClosestWaypointsGroup()
     {
-        AIWaypointsGroup[] allGroups = FindObjectsOfType<AIWaypointsGroup>();
+        AIWaypointsGroup[] allGroups = FindObjectsByType<AIWaypointsGroup>(FindObjectsSortMode.InstanceID);
         AIWaypointsGroup closestGroup = null;
         AIWaypoint closestWaypoint = null;
         float distance = Mathf.Infinity;
