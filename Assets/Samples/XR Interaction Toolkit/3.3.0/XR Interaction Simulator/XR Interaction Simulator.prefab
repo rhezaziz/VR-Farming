@@ -50,7 +50,8 @@ MonoBehaviour:
   m_CameraTransform: {fileID: 0}
   m_DeviceLifecycleManager: {fileID: 3966192772413791964}
   m_HandExpressionManager: {fileID: 4976647607938919449}
-  m_InteractionSimulatorUI: {fileID: 8640641445779114434, guid: be0c86f67bf3f46659373b3776d9ecbb, type: 3}
+  m_InteractionSimulatorUI: {fileID: 8640641445779114434, guid: be0c86f67bf3f46659373b3776d9ecbb,
+    type: 3}
   m_HMDIsTracked: 1
   m_HMDTrackingState: 3
   m_LeftControllerIsTracked: 1
@@ -70,7 +71,8 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReference: {fileID: -2435995061748527091, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReference: {fileID: -2435995061748527091, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualValue: 0
   m_TranslateYInput:
@@ -84,7 +86,8 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReference: {fileID: 4091624078112751379, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReference: {fileID: 4091624078112751379, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualValue: 0
   m_TranslateZInput:
@@ -98,7 +101,8 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReference: {fileID: 8957443236229058949, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReference: {fileID: 8957443236229058949, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualValue: 0
   m_ToggleManipulateLeftInput:
@@ -121,8 +125,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: 2547216639932606815, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
-    m_InputActionReferenceValue: {fileID: 2547216639932606815, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReferencePerformed: {fileID: 2547216639932606815, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: 2547216639932606815, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -151,8 +157,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: 743384497930276301, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
-    m_InputActionReferenceValue: {fileID: 743384497930276301, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReferencePerformed: {fileID: 743384497930276301, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: 743384497930276301, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -181,8 +189,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: -1271653843002399469, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
-    m_InputActionReferenceValue: {fileID: -1271653843002399469, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReferencePerformed: {fileID: -1271653843002399469, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: -1271653843002399469, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -211,8 +221,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: -7837977739890211585, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
-    m_InputActionReferenceValue: {fileID: -7837977739890211585, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReferencePerformed: {fileID: -7837977739890211585, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: -7837977739890211585, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -232,7 +244,8 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReference: {fileID: -1273072440521047205, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReference: {fileID: -1273072440521047205, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualValue: {x: 0, y: 0}
   m_ToggleMouseInput:
@@ -255,8 +268,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: -6780995177125596410, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
-    m_InputActionReferenceValue: {fileID: -6780995177125596410, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReferencePerformed: {fileID: -6780995177125596410, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: -6780995177125596410, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -276,7 +291,8 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReference: {fileID: -5681291154727990353, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReference: {fileID: -5681291154727990353, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualValue: {x: 0, y: 0}
   m_MouseScrollInput:
@@ -290,7 +306,8 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReference: {fileID: 4546399164687744209, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReference: {fileID: 4546399164687744209, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualValue: {x: 0, y: 0}
   m_GripInput:
@@ -313,8 +330,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: 5667446173830999989, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
-    m_InputActionReferenceValue: {fileID: 5667446173830999989, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
+    m_InputActionReferencePerformed: {fileID: 5667446173830999989, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: 5667446173830999989, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -343,8 +362,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: -2439264783773714294, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
-    m_InputActionReferenceValue: {fileID: -2439264783773714294, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
+    m_InputActionReferencePerformed: {fileID: -2439264783773714294, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: -2439264783773714294, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -373,8 +394,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: -3599823989380923159, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
-    m_InputActionReferenceValue: {fileID: -3599823989380923159, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
+    m_InputActionReferencePerformed: {fileID: -3599823989380923159, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: -3599823989380923159, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -403,8 +426,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: -8069514856583376848, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
-    m_InputActionReferenceValue: {fileID: -8069514856583376848, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
+    m_InputActionReferencePerformed: {fileID: -8069514856583376848, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: -8069514856583376848, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -433,8 +458,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: 4116954447336496447, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
-    m_InputActionReferenceValue: {fileID: 4116954447336496447, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
+    m_InputActionReferencePerformed: {fileID: 4116954447336496447, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: 4116954447336496447, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -463,8 +490,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: 637922521265743415, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
-    m_InputActionReferenceValue: {fileID: 637922521265743415, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
+    m_InputActionReferencePerformed: {fileID: 637922521265743415, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: 637922521265743415, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -493,8 +522,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: -8358032100899166728, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
-    m_InputActionReferenceValue: {fileID: -8358032100899166728, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
+    m_InputActionReferencePerformed: {fileID: -8358032100899166728, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: -8358032100899166728, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -523,8 +554,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: 2883175194488637904, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
-    m_InputActionReferenceValue: {fileID: 2883175194488637904, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
+    m_InputActionReferencePerformed: {fileID: 2883175194488637904, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: 2883175194488637904, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -553,8 +586,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: -851591506940895311, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
-    m_InputActionReferenceValue: {fileID: -851591506940895311, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
+    m_InputActionReferencePerformed: {fileID: -851591506940895311, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: -851591506940895311, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -583,8 +618,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: -4201894270441249665, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
-    m_InputActionReferenceValue: {fileID: -4201894270441249665, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
+    m_InputActionReferencePerformed: {fileID: -4201894270441249665, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: -4201894270441249665, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -613,8 +650,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: 5188782311186578770, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
-    m_InputActionReferenceValue: {fileID: 5188782311186578770, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
+    m_InputActionReferencePerformed: {fileID: 5188782311186578770, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: 5188782311186578770, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -643,8 +682,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: -8086843181801629294, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
-    m_InputActionReferenceValue: {fileID: -8086843181801629294, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReferencePerformed: {fileID: -8086843181801629294, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: -8086843181801629294, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -673,8 +714,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: 5691479700773754790, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
-    m_InputActionReferenceValue: {fileID: 5691479700773754790, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReferencePerformed: {fileID: 5691479700773754790, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: 5691479700773754790, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -703,8 +746,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: 1644704167276153141, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
-    m_InputActionReferenceValue: {fileID: 1644704167276153141, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReferencePerformed: {fileID: 1644704167276153141, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: 1644704167276153141, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -733,8 +778,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: -2638007419058092452, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
-    m_InputActionReferenceValue: {fileID: -2638007419058092452, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReferencePerformed: {fileID: -2638007419058092452, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: -2638007419058092452, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -754,7 +801,8 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReference: {fileID: 8275859971367427353, guid: b6d5c44ebe3244b7692e81ae8265eb22, type: 3}
+    m_InputActionReference: {fileID: 8275859971367427353, guid: b6d5c44ebe3244b7692e81ae8265eb22,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualValue: {x: 0, y: 0}
   m_TogglePrimary2DAxisTargetInput:
@@ -777,8 +825,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: -7682297331024740639, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
-    m_InputActionReferenceValue: {fileID: -7682297331024740639, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReferencePerformed: {fileID: -7682297331024740639, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: -7682297331024740639, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -807,8 +857,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: 1155009490345466815, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
-    m_InputActionReferenceValue: {fileID: 1155009490345466815, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReferencePerformed: {fileID: 1155009490345466815, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: 1155009490345466815, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -837,8 +889,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: 3777898905585145322, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
-    m_InputActionReferenceValue: {fileID: 3777898905585145322, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReferencePerformed: {fileID: 3777898905585145322, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: 3777898905585145322, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -867,8 +921,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: -3450969811164232283, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
-    m_InputActionReferenceValue: {fileID: -3450969811164232283, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReferencePerformed: {fileID: -3450969811164232283, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: -3450969811164232283, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -897,8 +953,10 @@ MonoBehaviour:
       m_Interactions: 
       m_SingletonActionBindings: []
       m_Flags: 0
-    m_InputActionReferencePerformed: {fileID: -3619485213038975404, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
-    m_InputActionReferenceValue: {fileID: -3619485213038975404, guid: 7f59cc19636f04d5cbbc64e77a20787f, type: 3}
+    m_InputActionReferencePerformed: {fileID: -3619485213038975404, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
+    m_InputActionReferenceValue: {fileID: -3619485213038975404, guid: 7f59cc19636f04d5cbbc64e77a20787f,
+      type: 3}
     m_ObjectReferenceObject: {fileID: 0}
     m_ManualPerformed: 0
     m_ManualValue: 0
@@ -912,7 +970,7 @@ MonoBehaviour:
   m_TranslateXSpeed: 0.2
   m_TranslateYSpeed: 0.2
   m_TranslateZSpeed: 0.2
-  m_BodyTranslateMultiplier: 5
+  m_BodyTranslateMultiplier: 30
   m_RotateXSensitivity: 0.2
   m_RotateYSensitivity: 0.2
   m_MouseScrollRotateSensitivity: 0.05
@@ -967,8 +1025,10 @@ MonoBehaviour:
         m_Interactions: 
         m_SingletonActionBindings: []
         m_Flags: 0
-      m_InputActionReferencePerformed: {fileID: -5976510165261225158, guid: 1f7ec93f6b8c84f5981db5008b5859cd, type: 3}
-      m_InputActionReferenceValue: {fileID: -5976510165261225158, guid: b72ab2a46d9094be38774d023beb4d34, type: 3}
+      m_InputActionReferencePerformed: {fileID: -5976510165261225158, guid: 1f7ec93f6b8c84f5981db5008b5859cd,
+        type: 3}
+      m_InputActionReferenceValue: {fileID: -5976510165261225158, guid: b72ab2a46d9094be38774d023beb4d34,
+        type: 3}
       m_ObjectReferenceObject: {fileID: 0}
       m_ManualPerformed: 0
       m_ManualValue: 0
@@ -1000,8 +1060,10 @@ MonoBehaviour:
         m_Interactions: 
         m_SingletonActionBindings: []
         m_Flags: 0
-      m_InputActionReferencePerformed: {fileID: -8306000708137014372, guid: 1f7ec93f6b8c84f5981db5008b5859cd, type: 3}
-      m_InputActionReferenceValue: {fileID: -8306000708137014372, guid: 1f7ec93f6b8c84f5981db5008b5859cd, type: 3}
+      m_InputActionReferencePerformed: {fileID: -8306000708137014372, guid: 1f7ec93f6b8c84f5981db5008b5859cd,
+        type: 3}
+      m_InputActionReferenceValue: {fileID: -8306000708137014372, guid: 1f7ec93f6b8c84f5981db5008b5859cd,
+        type: 3}
       m_ObjectReferenceObject: {fileID: 0}
       m_ManualPerformed: 0
       m_ManualValue: 0
@@ -1033,8 +1095,10 @@ MonoBehaviour:
         m_Interactions: 
         m_SingletonActionBindings: []
         m_Flags: 0
-      m_InputActionReferencePerformed: {fileID: -4373459253818063952, guid: b72ab2a46d9094be38774d023beb4d34, type: 3}
-      m_InputActionReferenceValue: {fileID: -4373459253818063952, guid: b72ab2a46d9094be38774d023beb4d34, type: 3}
+      m_InputActionReferencePerformed: {fileID: -4373459253818063952, guid: b72ab2a46d9094be38774d023beb4d34,
+        type: 3}
+      m_InputActionReferenceValue: {fileID: -4373459253818063952, guid: b72ab2a46d9094be38774d023beb4d34,
+        type: 3}
       m_ObjectReferenceObject: {fileID: 0}
       m_ManualPerformed: 0
       m_ManualValue: 0
@@ -1066,8 +1130,10 @@ MonoBehaviour:
         m_Interactions: 
         m_SingletonActionBindings: []
         m_Flags: 0
-      m_InputActionReferencePerformed: {fileID: -741559036651486339, guid: b72ab2a46d9094be38774d023beb4d34, type: 3}
-      m_InputActionReferenceValue: {fileID: -741559036651486339, guid: b72ab2a46d9094be38774d023beb4d34, type: 3}
+      m_InputActionReferencePerformed: {fileID: -741559036651486339, guid: b72ab2a46d9094be38774d023beb4d34,
+        type: 3}
+      m_InputActionReferenceValue: {fileID: -741559036651486339, guid: b72ab2a46d9094be38774d023beb4d34,
+        type: 3}
       m_ObjectReferenceObject: {fileID: 0}
       m_ManualPerformed: 0
       m_ManualValue: 0
@@ -1099,8 +1165,10 @@ MonoBehaviour:
         m_Interactions: 
         m_SingletonActionBindings: []
         m_Flags: 0
-      m_InputActionReferencePerformed: {fileID: -9192331390769138535, guid: b72ab2a46d9094be38774d023beb4d34, type: 3}
-      m_InputActionReferenceValue: {fileID: -9192331390769138535, guid: b72ab2a46d9094be38774d023beb4d34, type: 3}
+      m_InputActionReferencePerformed: {fileID: -9192331390769138535, guid: b72ab2a46d9094be38774d023beb4d34,
+        type: 3}
+      m_InputActionReferenceValue: {fileID: -9192331390769138535, guid: b72ab2a46d9094be38774d023beb4d34,
+        type: 3}
       m_ObjectReferenceObject: {fileID: 0}
       m_ManualPerformed: 0
       m_ManualValue: 0
@@ -1132,8 +1200,10 @@ MonoBehaviour:
         m_Interactions: 
         m_SingletonActionBindings: []
         m_Flags: 0
-      m_InputActionReferencePerformed: {fileID: 6469712917552426222, guid: b72ab2a46d9094be38774d023beb4d34, type: 3}
-      m_InputActionReferenceValue: {fileID: 6469712917552426222, guid: b72ab2a46d9094be38774d023beb4d34, type: 3}
+      m_InputActionReferencePerformed: {fileID: 6469712917552426222, guid: b72ab2a46d9094be38774d023beb4d34,
+        type: 3}
+      m_InputActionReferenceValue: {fileID: 6469712917552426222, guid: b72ab2a46d9094be38774d023beb4d34,
+        type: 3}
       m_ObjectReferenceObject: {fileID: 0}
       m_ManualPerformed: 0
       m_ManualValue: 0
@@ -1144,7 +1214,8 @@ MonoBehaviour:
       m_ManualQueueTargetFrame: 0
     m_Capture: {fileID: 11400000, guid: fa004868963da45f6a2e6520cfd82522, type: 2}
     m_IsQuickAction: 0
-  m_RestingHandExpressionCapture: {fileID: 11400000, guid: 3a2050912ec71479899c69612c0af028, type: 2}
+  m_RestingHandExpressionCapture: {fileID: 11400000, guid: 3a2050912ec71479899c69612c0af028,
+    type: 2}
 --- !u!114 &9147200356447112767
 MonoBehaviour:
   m_ObjectHideFlags: 0
