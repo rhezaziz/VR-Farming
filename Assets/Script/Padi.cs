@@ -6,8 +6,7 @@ public class Padi : MonoBehaviour
     public GameObject padi;
     public void Take()
     {
-        beras.SetActive(true);
-        padi.SetActive(false);
+        Manager.instance.AmbilPadi();
     }
 
     public void Drop()

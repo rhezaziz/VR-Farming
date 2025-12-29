@@ -37,7 +37,7 @@ public class jaring : MonoBehaviour
                 if (ikan)
                 {
 
-                    
+                    Manager.instance.TangkapIkan();
                     ikan.Drop();
                     ikan.transform.SetParent(obj.transform);
                     ikan = null;
