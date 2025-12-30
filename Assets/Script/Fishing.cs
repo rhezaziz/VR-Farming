@@ -64,7 +64,6 @@ public class Fishing : MonoBehaviour
         Ikan ikan = null;
         if(ikans.Count > 1)
         {
-            
             float distance = Mathf.Infinity;
             foreach(var i in ikans)
             {
@@ -105,6 +104,4 @@ public class Fishing : MonoBehaviour
         ikan.transform.SetParent(Ember.transform);
         ikan = null;
     }
-
-    
 }

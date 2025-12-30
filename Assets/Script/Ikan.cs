@@ -11,8 +11,6 @@ public class Ikan : MonoBehaviour
     [SerializeField] private AIWaypoint currWaypoint;
     [SerializeField] private AIWaypoint prevWaypoint;
     private AIWaypointsGroup waypointsGroup;
-    public AIWaypointsGroup startPointGroup;
-    public AIWaypointsGroup endPointGroup; 
     private Rigidbody rb;
 
     public float speed;
@@ -26,7 +24,7 @@ public class Ikan : MonoBehaviour
         rb = GetComponent<Rigidbody>();
 
         //var closestWayPointGroup = FindClosestWaypointsGroup();
-        waypointsGroup = startPointGroup;
+        //waypointsGroup = startPointGroup;
 
     }
     void Update()
